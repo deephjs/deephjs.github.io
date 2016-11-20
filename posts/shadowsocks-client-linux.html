@@ -289,7 +289,6 @@ img {
   max-width: 100%
 }
 </style>
-<base href='file:\\\C:\Users\deeph\Desktop\'/>
 </head>
 <body>
 <h1>Linux(Ubuntu)下使用shadowsocks科学上网</h1>
@@ -316,7 +315,7 @@ sslocal -c shadowsocks.json #debug模式
 </code></pre>
 
 <h3>安装<a href="https://wiki.archlinux.org/index.php/Polipo_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)">polipo</a></h3>
-<p>本来到这里再把终端代理设置为本地shadowsocks就可以了，但是由于shawdowsocks是走socks 5代理的，需要polipo配合才能翻墙。</p>
+<p>本来到这里再把终端代理设置为本地shadowsocks就可以了，但是<strong>由于shawdowsocks是走socks 5代理的，需要polipo配合才能翻墙。</strong></p>
 <p>polipo安装命令:</p>
 <pre><code>#sudo apt-get install polipo
 </code></pre>
