@@ -1,0 +1,36 @@
+/*@import url('http://fonts.lug.ustc.edu.cn/css?family=Source+Sans+Pro:300,900');*/
+@font-face{
+  font-family: 'Noto Sans CJK SC';
+  src: url('../fonts/NotoSansCJKsc-Regular.otf') format('otf');
+  font-weight: normal;
+	font-style: normal;
+}
+
+body, html { font-size: 100%; padding: 0; margin: 0;}
+
+body{
+  font-family: 'Noto Sans CJK SC',sans-serif;
+  color: #666;
+}
+
+a {
+	color: #ccc;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000;
+}
+
+p{
+  padding: 0;
+  margin:0;
+}
+
+.zero-height {
+  height: 0% !important;
+}
+
+.none{
+  display: none;
+}
