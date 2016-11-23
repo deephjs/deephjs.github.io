@@ -891,7 +891,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP/9k=" transform="mat
 	</image>
 </g>
 <g id="身体">
-	<path fill="none" stroke="#050505" stroke-miterlimit="10" d="M156.667,425.888l256-30c0,0,4.833,2.611,18.333,25.057
+	<path fill="#375938" stroke="#000000" stroke-miterlimit="10" d="M156.667,425.888l256-30c0,0,4.833,2.611,18.333,25.057
 		c0,0-8.667-3.056,28.333,17.278c0,0,36.668,24.334,44.334,50.667v4.999c0,0-4.666,1.334-5,4c0,0-1,6.334,0,7s-1.667-5-9.667,7
 		c0,0-0.666,4.666-0.333,5.333s-21.333,4.333-42,2c0,0-18.667,15.667-20.667,24.667l-131.667,36.999c0,0-4.833-5.998-28.333-6.998
 		c0,0-46-1.5-88.5-32l-32-75.5c0,0,3.75-5,3.75-11.75C149.25,454.64,152.834,428.636,156.667,425.888z"/>
@@ -907,22 +907,43 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP/9k=" transform="mat
 		c35-80,95-89,95-89"/>
 </g>
 <g id="肚子1">
-	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M156.667,425.888c0,0,16.563-51.025,64.615-76.844
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="285.731" y1="330.3647" x2="285.731" y2="502.251">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.0578" style="stop-color:#FBF6E7"/>
+		<stop  offset="0.1437" style="stop-color:#F6ECCA"/>
+		<stop  offset="0.2398" style="stop-color:#F2E3B2"/>
+		<stop  offset="0.3486" style="stop-color:#EFDCA0"/>
+		<stop  offset="0.4773" style="stop-color:#EDD893"/>
+		<stop  offset="0.6453" style="stop-color:#EBD58B"/>
+		<stop  offset="1" style="stop-color:#EBD489"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" stroke="#000000" stroke-miterlimit="10" d="M156.667,425.888c0,0,16.563-51.025,64.615-76.844
 		s92.987-17.696,98.468-16.654c0,0,48.25,7.166,94.25,64c0,0,2.5,20.5,0,27c0,0-4.534,38.166-55.934,64
 		c0,0-38.066,20.592-91.566,13.296c0,0-45.949-14.796-89.058-30.129c0,0-24.108-6.334-20.775-43.667"/>
 </g>
-<g id="脸">
-	<path fill="none" stroke="#050505" stroke-miterlimit="10" d="M460,437.89c0,0,30-51-7-90.5c-4.945-5.28,0.5-6.375-27.5-9
-		c0,0-1-0.834-8.5-15c-15.309-15.522-87.5-7.499-96.5,9c0,0,60.813,17.191,90.659,61.725c0.283,0.422,9.841,9.775,20.341,29.275
-		C431.5,423.39,455,433.89,460,437.89z"/>
-</g>
 <g id="头">
-	<path fill="none" stroke="#050505" stroke-miterlimit="10" d="M320.5,331.89c0,0,14.5-12,16-12.5l17-9.5c0,0,31-27,39-27
+	<path fill="#375938" stroke="#000000" stroke-miterlimit="10" d="M320.5,331.89c0,0,14.5-12,16-12.5l17-9.5c0,0,31-27,39-27
 		s10.5,20,12.5,30c0,0,34.668,11.667,65.334,42c0,0,44,5.333,47.333,16c0,0,3,11.332-27,45.333c0,0-6.334,13.662-15.667,32.996
 		c0,0-26-20.333-43-25.333C432,423.885,403.667,357.886,320.5,331.89z"/>
 </g>
+<g id="脸">
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="371.3145" y1="304.6245" x2="440.8648" y2="447.2238">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.0011" style="stop-color:#FFFFFE"/>
+		<stop  offset="0.0616" style="stop-color:#FAF3DF"/>
+		<stop  offset="0.1288" style="stop-color:#F5EAC4"/>
+		<stop  offset="0.2062" style="stop-color:#F1E2AE"/>
+		<stop  offset="0.2966" style="stop-color:#EEDB9D"/>
+		<stop  offset="0.4083" style="stop-color:#ECD792"/>
+		<stop  offset="0.565" style="stop-color:#EBD58B"/>
+		<stop  offset="1" style="stop-color:#EBD489"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" stroke="#000000" stroke-miterlimit="10" d="M460,437.89c0,0,30-51-7-90.5
+		c-4.945-5.28,0.5-6.375-27.5-9c0,0-1-0.834-8.5-15c-15.309-15.522-87.5-7.499-96.5,9c0,0,60.813,17.191,90.659,61.725
+		c0.283,0.422,9.841,9.775,20.341,29.275C431.5,423.39,455,433.89,460,437.89z"/>
+</g>
 <g id="左脚">
-	<path fill="#FFFFFF" stroke="#050505" stroke-miterlimit="10" d="M88,491.89c0,0,4-3,3.5-18c0,0-0.75-2.5,1.5-2.5
+	<path fill="#EBD489" stroke="#000000" stroke-miterlimit="10" d="M88,491.89c0,0,4-3,3.5-18c0,0-0.75-2.5,1.5-2.5
 		c0,0,3.5,2,4.75,1.25c0,0,11.5-10,11-14.25h1.75h1.25c0,0-0.25,5.75,3.25,8.5c0,0,12.5,6,14.75-7.25v-2.5c0,0,20.5,3.75,37,36.75
 		c0,0,13.25,24.25,10.25,47.5c0,0-3,23-31,16.75C146,558.14,94,550.14,88,491.89z"/>
 	<path fill="#F9F9F9" stroke="#050505" stroke-miterlimit="10" d="M129.75,457.14c0,0-0.532,7.17-5.266,10.46
@@ -933,7 +954,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP/9k=" transform="mat
 <g id="左脚小">
 </g>
 <g id="右脚">
-	<path fill="#FFFFFF" stroke="#050505" stroke-miterlimit="10" d="M295,580.89c0,0-11.5-58.309,41-78.904c0,0,34-5.52,46.5,6.192
+	<path fill="#EBD489" stroke="#000000" stroke-miterlimit="10" d="M295,580.89c0,0-11.5-58.309,41-78.904c0,0,34-5.52,46.5,6.192
 		c0,0,22.5,12.212,27,35.212l1.833,24.167c0,0,1.334,38.667-40.666,51C370.667,618.557,318,634.89,295,580.89z"/>
 	<path fill="none" stroke="#050505" stroke-miterlimit="10" d="M113.667,505.557c0,0,31.667,1.333,43.667,38.333
 		c0,0,4,14.334-11.833,9.667c0,0-29.833-8.333-36.833-32C108.667,521.557,104,509.224,113.667,505.557z"/>
@@ -952,7 +973,15 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP/9k=" transform="mat
 		c0,0-33.667-6.667-33-40.667C305.333,568.223,310,556.223,320.5,553.89z"/>
 </g>
 <g id="嘴巴">
-	<path fill="none" stroke="#050505" stroke-miterlimit="10" d="M371,354.89c0,0,13-16,21.75-13c0,0,23.5,9.5,28.75,21.5
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="405.1416" y1="348.124" x2="388.4829" y2="376.9777">
+		<stop  offset="0.0197" style="stop-color:#E75230"/>
+		<stop  offset="0.1599" style="stop-color:#EC6A46"/>
+		<stop  offset="0.4086" style="stop-color:#F49068"/>
+		<stop  offset="0.6395" style="stop-color:#FAAB80"/>
+		<stop  offset="0.8438" style="stop-color:#FEBB8F"/>
+		<stop  offset="1" style="stop-color:#FFC194"/>
+	</linearGradient>
+	<path fill="url(#SVGID_4_)" stroke="#000000" stroke-miterlimit="10" d="M371,354.89c0,0,13-16,21.75-13c0,0,23.5,9.5,28.75,21.5
 		c0,0,5.5,8.75-13.25,25C408.25,388.39,384.25,362.89,371,354.89z"/>
 </g>
 <g id="牙齿左">
@@ -974,7 +1003,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP/9k=" transform="mat
 	<path fill="none" stroke="#050505" stroke-miterlimit="10" d="M432.667,350.89c0,0,5.583,0.167,6.833,2.333"/>
 </g>
 <g id="左手">
-	<path fill="#FFFFFF" stroke="#050505" stroke-miterlimit="10" d="M221.282,349.044c0,0,0.051-22.802,42.385-34.978
+	<path fill="#375938" stroke="#000000" stroke-miterlimit="10" d="M221.282,349.044c0,0,0.051-22.802,42.385-34.978
 		c0,0,22.333-4.224,34.333,16.133C298,330.2,246.563,332.864,221.282,349.044z"/>
 	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M284.656,317.64c0,0,11.678-2.584,15.011,0
 		c0,0,0.833,5.375-3.417,8.625C296.25,326.265,285.937,316.764,284.656,317.64"/>
